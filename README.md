@@ -1,4 +1,5 @@
 # Bash script for adding a job to Prometheus
+<a href="https://www.buymeacoffee.com/alexnisuleXu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
 ## Table of contents
   * [Index](#index)
@@ -40,3 +41,5 @@ Some examples of running it are:
     Creator: Alexandru Nișulescu
     Contact: alex.nisulescu1998@gmail.com
     Linkedin: https://www.linkedin.com/in/alex-nisulescu-45822b178/
+
+If you found this usefull, please consider [buying me a coffee](https://www.buymeacoffee.com/alexnisuleXu)
